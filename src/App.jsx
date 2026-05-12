@@ -15,7 +15,6 @@ export default function App() {
       <div className="flair-banner">
         <img src={flairBanner} alt="Flair banner" />
         <div className="flair-overlay">
-          <Cart />
           <Checkout />
         </div>
       </div>
